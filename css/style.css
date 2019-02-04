@@ -71,6 +71,12 @@ h11 {
 	color:#6e6e6e;
 }
 
+h12 {
+	font-size: 16px;
+	line-height: 24px;
+	color:#9b9b9b;
+}
+
 h2 {
 	font-size: 102px;
 	background: -webkit-linear-gradient(#ff0000, #ff1000);
