@@ -101,7 +101,7 @@ h5 {
 h6 {
 	font-size: 14px;
 	font-style:;
-	color: #fff;
+	color: rgb(58, 58, 58);
 	font-family: 'Montserrat', comic-sans;
 	line-height: 1.5em;
 	letter-spacing: 3px;
@@ -5141,9 +5141,9 @@ height: 50px;
 	font-size: 12px;
 }
 .pagination>li>a:hover {
-	background: #af5875;
+	background: #ff0000;
 	color: #fff;
-	border-color: #af5875;
+	border-color: #ff0000;
 }
 /*=======================================================
       ITEMS TYPE
