@@ -127,6 +127,13 @@ h8 {
 	font-family: 'Lato', serif;
 	line-height: 2em;
 }
+h9 {
+	font-size: 14px;
+	font-style:;
+	font-family: 'Montserrat', comic-sans;
+	line-height: 1.5em;
+	letter-spacing: 3px;
+}
 p {
 	color: #666666;
 	font-size: 14px;
@@ -6245,3 +6252,28 @@ hr.style-six {
 	background-size: 90px 90px;
 	height: 50px;
 	}
+
+input.MyButton {
+	background-color: white;
+	border-radius: 30px; 
+	color: black; 
+	border: 2px solid #f44336;
+	padding: 16px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	margin: 4px 2px;
+	-webkit-transition-duration: 0.4s; /* Safari */
+	transition-duration: 0.4s;
+	cursor: pointer;
+	font-size: 14px;
+	font-style:;
+	font-family: 'Montserrat', comic-sans;
+	line-height: 1.5em;
+	letter-spacing: 3px;
+	}
+  
+input.MyButton:hover {
+	background-color: #f44336;
+	color: white;
+  }
